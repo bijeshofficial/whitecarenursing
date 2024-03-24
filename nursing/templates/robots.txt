@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+Disallow: /white-care-wcn-admin/
+Disallow: /white-care-wcn-auth/
+
+User-agent: *
+Allow: /
+Disallow: /white-care-wcn-admin/
+Disallow: /white-care-wcn-auth/
+
+Sitemap: https://www.whitecarenursing.com.au/sitemap.xml
